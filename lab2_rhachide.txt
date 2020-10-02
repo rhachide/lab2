@@ -1,0 +1,101 @@
+    1  q
+    2  a
+    3  aa
+    4  a
+    5  aa
+    6  sudo apt-get install vim
+    7  sudo apt install libssl-dev bison flex
+    8  sudo apt install qt5-default pkg-config
+    9  ls
+   10  *
+   11  ls
+   12  time
+   13  ls
+   14  time
+   15  date
+   16  ls
+   17  date
+   18  ls
+   19  *
+   20  ls
+   21  cd Desktop/
+   22  ls
+   23  *
+   24  ls
+   25  cd Desktop/
+   26  mkdir lab2
+   27  cd lab2
+   28  sudo apt install git gitk git -email
+   29  sudo apt install git gitk-email
+   30  sudo reboot
+   31  sudo apt install git gitk-email
+   32  sudo apt install git gitk git-email
+   33  git config --global user.Mehdi
+   34  git config --global user.mehdirhachide@gmail.com
+   35  git config --global user."Mehdi"
+   36  git config --global user."mehdirhachide@gmail.com"
+   37  git config --list
+   38  git config --global user.name "Mehdi"
+   39  git config --global user.name "mehdirhachide@gmail.com"
+   40  git config --list
+   41  git config --global user.email "mehdirhachide@gmail.com"
+   42  git config --list
+   43  git config --global user.name "mehdi"
+   44  git config --list
+   45  git config --global user.name "mehdi"
+   46  git config --global user.email "mehdirhachide@gmail.com"
+   47  git config --global user.name 
+   48  git config --global user.email
+   49  mkdir lab2
+   50  rm lab2
+   51  rm -r lab2
+   52  mkdir lab2
+   53  cd lab2
+   54  vim
+   55  cat rhachide
+   56  pwd
+   57  cd ..
+   58  ls
+   59  rm -r lab2
+   60  cd desktop
+   61  cd Desktop
+   62  rm -r lab2
+   63  mkdir lab2
+   64  cd lab2
+   65  vim
+   66  cat rhachide
+   67  cd ..
+   68  git init lab2
+   69  git status
+   70  cd lab2
+   71  git status
+   72  git add rhachide
+   73  git status
+   74  ls
+   75  rm rhachide
+   76  vim
+   77  cat rhachide.txt 
+   78  git commit -m "hello M2 syscom"
+   79  git remote add origin https://github.com/rhachide/rhachide.git
+   80  git push -u origin master
+   81  git pull
+   82  cd 
+   83  cd $home
+   84  cd $Home
+   85  git clone https://github.com/rhachide/rhachide
+   86  ls
+   87  cd rhachide/
+   88  ls
+   89  git pull
+   90  history
+   91  history > lab2_rhachide.txt
+   92  ls
+   93  cat lab2_rhachide.txt 
+   94  ls
+   95  rm lab2_rhachide.txt 
+   96  ls
+   97  cd ..
+   98  ls
+   99  cd Desktop/lab2/
+  100  ls
+  101  history > lab2_rhachide.txt
